@@ -1,0 +1,10 @@
+# Hi-TOM — pure Python standard library; no pip packages required.
+# Listed here for documentation completeness.
+
+# Python version
+python>=3.8
+
+# --- System dependencies (not installable via pip) ---
+# bwa       >= 0.7.10   (or 0.7.17 tested)
+# samtools  >= 1.10
+# WSL       (Windows only; for cross-platform subprocess calls)

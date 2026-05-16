@@ -1,0 +1,5 @@
+# Large raw data — download separately
+test-files/
+
+# Python
+__pycache__/

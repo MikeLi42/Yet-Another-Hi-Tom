@@ -1,0 +1,12 @@
+	1	2	3	4	5	6	7	8	9	10	11	12
+A	AA	AA	AA	AA	AA	AA	AA	Aa	AA	AA	AA	AA
+B	aa	aa	AA	aa	aa	aa	aa	aa	aa	aa	chimeric	aa
+C	chimeric	chimeric	chimeric	chimeric	chimeric	chimeric	aa	aa	aa	aa	aa	aa
+D	chimeric	aa	aa	aa*	chimeric	chimeric	aa*	chimeric	chimeric	aa*	aa	aa
+E	aa	aa	aa	aa	aa	chimeric	aa	Aa	aa	aa	chimeric	chimeric
+F	aa	Aa	Aa	Aa	aa	aa	aa	Aa	aa	aa	chimeric	aa
+G	aa	aa	chimeric	aa*	aa#	aa	aa#	Aa	aa*	aa	chimeric	aa
+H	Aa	Aa	Aa*	Aa	chimeric	Aa	AA	Aa	AA	AA	AA	AA
+Notice: * In-frame mutation
+	# SNP
+	'- Missing data

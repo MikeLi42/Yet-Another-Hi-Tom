@@ -1,0 +1,925 @@
+{
+  "file name" : "Hi-Tom.pdf",
+  "number of pages" : 7,
+  "author" : null,
+  "title" : "SCLS-2018-0353_XML 1..7",
+  "creation date" : "D:20181219095939+08'00'",
+  "modification date" : "D:20190103204719+08'00'",
+  "kids" : [ {
+    "type" : "heading",
+    "id" : 27,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 232.724, 724.646, 362.529, 742.365 ],
+    "heading level" : 1,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 16.0,
+    "text color" : "[0.37, 0.44999999999999996, 0.49]",
+    "content" : "SCIENCE CHINA"
+  }, {
+    "type" : "image",
+    "id" : 30,
+    "page number" : 1,
+    "bounding box" : [ 481.866, 712.833, 505.434, 735.681 ],
+    "source" : "Hi-Tom_images/imageFile1.png"
+  }, {
+    "type" : "heading",
+    "id" : 28,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 255.628, 709.378, 339.651, 725.023 ],
+    "heading level" : 2,
+    "font" : "ArialMT",
+    "font size" : 14.003,
+    "text color" : "[0.0]",
+    "content" : "Life Sciences"
+  }, {
+    "type" : "paragraph",
+    "id" : 14,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 45.354, 679.999, 549.902, 701.114 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "•COVER ARTICLE• January 2019 Vol.62 No.1: 1–7 https://doi.org/10.1007/s11427-018-9402-9"
+  }, {
+    "type" : "heading",
+    "id" : 15,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 75.118, 575.481, 520.117, 612.368 ],
+    "heading level" : 1,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 16.0,
+    "text color" : "[0.0]",
+    "content" : "Hi-TOM: a platform for high-throughput tracking of mutations induced by CRISPR/Cas systems"
+  }, {
+    "type" : "paragraph",
+    "id" : 16,
+    "page number" : 1,
+    "bounding box" : [ 92.523, 539.055, 498.768, 569.091 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 11.955,
+    "text color" : "[0.0]",
+    "content" : "Qing Liu1†, Chun Wang1†, Xiaozhen Jiao1, Huawei Zhang2, Lili Song3, Yanxin Li3, Caixia Gao2 & Kejian Wang1*"
+  }, {
+    "type" : "paragraph",
+    "id" : 17,
+    "page number" : 1,
+    "bounding box" : [ 68.031, 457.202, 527.248, 525.982 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "1State Key Laboratory of Rice Biology, China National Rice Research Institute, Chinese Academy of Agricultural Sciences, Hangzhou 310006, China; 2State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China; 3Pediatric Translational Medicine Institute, Shanghai Children’s Medical Center, School of Medicine, Shanghai Jiao Tong University, Shanghai 200240, China"
+  }, {
+    "type" : "paragraph",
+    "id" : 18,
+    "page number" : 1,
+    "bounding box" : [ 150.918, 439.17, 444.371, 448.029 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Received July 18, 2018; accepted August 19, 2018; published online November 13, 2018"
+  }, {
+    "type" : "paragraph",
+    "id" : 19,
+    "page number" : 1,
+    "bounding box" : [ 68.031, 298.415, 527.259, 411.279 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.002,
+    "text color" : "[0.0]",
+    "content" : "The CRISPR/Cas system has been extensively applied to make precise genetic modifications in various organisms. Despite its importance and widespread use, large-scale mutation screening remains time-consuming, labour-intensive and costly. Here, we developed Hi-TOM (available at http://www.hi-tom.net/hi-tom/), an online tool to track the mutations with precise percentage for multiple samples and multiple target sites. We also described a corresponding next-generation sequencing (NGS) library construction strategy by fixing the bridge sequences and barcoding primers. Analysis of the samples from rice, hexaploid wheat and human cells reveals that the Hi-TOM tool has high reliability and sensitivity in tracking various mutations, especially complex chimeric mutations frequently induced by genome editing. Hi-TOM does not require special design of barcode primers, cumbersome parameter configuration or additional data analysis. Thus, the streamlined NGS library construction and comprehensive result output make Hi-TOM particularly suitable for high-throughput identification of all types of mutations induced by CRISPR/Cas systems."
+  }, {
+    "type" : "heading",
+    "id" : 20,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 68.031, 281.517, 314.725, 291.487 ],
+    "heading level" : 6,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 9.002,
+    "text color" : "[0.0]",
+    "content" : "CRISPR/Cas, genome editing, mutation identification, Hi-TOM"
+  }, {
+    "type" : "paragraph",
+    "id" : 21,
+    "page number" : 1,
+    "bounding box" : [ 68.031, 255.02, 527.259, 262.776 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 7.004,
+    "text color" : "[0.0]",
+    "content" : "Citation: Liu, Q., Wang, C., Jiao, X., Zhang, H., Song, L., Li, Y., Gao, C., and Wang, K. (2019). Hi-TOM: a platform for high-throughput tracking of mutations"
+  }, {
+    "type" : "paragraph",
+    "id" : 22,
+    "page number" : 1,
+    "bounding box" : [ 105.446, 246.573, 406.919, 254.33 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 7.004,
+    "text color" : "[0.0]",
+    "content" : "induced by CRISPR/Cas systems. Sci China Life Sci 62, 1–7. https://doi.org/10.1007/s11427-018-9402-9"
+  }, {
+    "type" : "heading",
+    "id" : 23,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 45.354, 210.163, 133.344, 222.343 ],
+    "heading level" : 3,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.999,
+    "text color" : "[0.0]",
+    "content" : "INTRODUCTION"
+  }, {
+    "type" : "paragraph",
+    "id" : 24,
+    "page number" : 1,
+    "bounding box" : [ 45.354, 108.71, 287.525, 196.056 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "CRISPR/Cas has emerged as powerful genome editing system and has been widely applied in various organisms (Wang et al., 2014; Zhang et al., 2014; Chen et al., 2017; Ran et al., 2017; Jiao and Gao, 2017; Rodríguez-Leal et al., 2017; Zhang et al., 2017). However, with the relatively high efficiency and broad applicability of genome editing in different organisms, screening mutations in a large number of samples"
+  }, {
+    "type" : "paragraph",
+    "id" : 32,
+    "page number" : 1,
+    "bounding box" : [ 45.354, 77.742, 142.234, 85.498 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 7.004,
+    "text color" : "[0.0]",
+    "content" : "†Contributed equally to this work"
+  }, {
+    "type" : "paragraph",
+    "id" : 33,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 45.354, 69.351, 196.699, 77.107 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 7.004,
+    "text color" : "[0.0]",
+    "content" : "*Corresponding author (email: wangkejian@caas.cn)"
+  }, {
+    "type" : "paragraph",
+    "id" : 25,
+    "page number" : 1,
+    "bounding box" : [ 307.853, 70.52, 549.956, 221.433 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "remain a time-consuming, labour-intensive and expensive process (Shen et al., 2017). To obtain sequence mutations induced by genome editing, the traditional method used is to clone PCR-amplified target regions, followed by monoclonal sequencing. Alternatively, simple strategies were also developed to identify mutations by directly analyzing the Sanger sequencing results (Brinkman et al., 2014; Xie et al., 2017). However, for a large number of samples, Sanger sequencing is expensive and the decoding process is timeconsuming. In addition, complex chimeric mutations, which are frequently generated by genome editing, remain difficult to decode."
+  }, {
+    "type" : "paragraph",
+    "id" : 26,
+    "page number" : 1,
+    "bounding box" : [ 45.354, 48.632, 549.897, 56.457 ],
+    "font" : "ArialMT",
+    "font size" : 7.004,
+    "text color" : "[0.0]",
+    "content" : "© Science China Press and Springer-Verlag GmbH Germany, part of Springer Nature 2018 life.scichina.com link.springer.com"
+  }, {
+    "type" : "header",
+    "id" : 34,
+    "page number" : 2,
+    "bounding box" : [ 45.354, 733.601, 401.434, 743.796 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 7,
+      "page number" : 2,
+      "bounding box" : [ 45.354, 733.601, 401.434, 743.796 ],
+      "heading level" : 7,
+      "font" : "Georgia",
+      "font size" : 7.004,
+      "text color" : "[0.0]",
+      "content" : "2 Liu, Q., et al. Sci China Life Sci January (2019) Vol.62 No.1"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 35,
+    "page number" : 2,
+    "bounding box" : [ 45.356, 404.21, 287.471, 720.466 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "Due to the tremendous progress in terms of speed, throughput and cost, next-generation sequencing (NGS) has been used increasingly in biological research (Goodwin et al., 2016). With NGS, thousands to millions of sequencing reactions can be performed in parallel, which generates a valuable amount of sequence information (Metzker, 2010). Therefore, many research groups have used NGS to screen mutation patterns induced by genome editing so far. For example, AGEseq, CRISPR-GA, CRISPResso, Cas-Analyzer and CrispRVariants were developed for mutation analysis induced by genome editing. However, only one sample with multiple target sites can be analyzed each time, which are inefficient when dealing with a large number of samples (Güell et al., 2014; Xue and Tsai, 2015; Lindsay et al., 2016; Park et al., 2016; Pinello et al., 2016). CaRpool and BATCHGE can screen multiple target sites, but a series of software packages must be installed for data analysis (Boel et al., 2016; Winter et al., 2016). Here, we developed a simplified and cheap strategy that combines common experiment kits for NGS library construction and a user-friendly web tool for high-throughput analysis of multiple samples at multiple target sites. The work will facilitate the application of NGS sequencing in mutation identification, particularly for laboratories that do not have researchers with NGS or bioinformatics skills."
+  }, {
+    "type" : "heading",
+    "id" : 36,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 45.354, 365.955, 94.578, 378.135 ],
+    "heading level" : 3,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.999,
+    "text color" : "[0.0]",
+    "content" : "RESULTS"
+  }, {
+    "type" : "paragraph",
+    "id" : 37,
+    "page number" : 2,
+    "bounding box" : [ 45.354, 328.012, 287.458, 351.792 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "To establish a simplified and streamlined workflow to screen mutations induced by CRISPR/Cas systems, we first mod-"
+  }, {
+    "type" : "paragraph",
+    "id" : 38,
+    "page number" : 2,
+    "bounding box" : [ 307.842, 404.23, 549.949, 720.458 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "ified the PCR-based library construction strategy reported by Bell (Bell et al., 2014). Library construction included two rounds of PCR, i.e., target-specific and barcoding PCR. The initial PCR primers included a target-specific sequence with common bridging sequences (5′-ggagtgagtacggtgtgc-3′ and 5′-gagttggatgctggatgg-3′) added at the 5′ end (Figure 1A). To ensure the sequencing quality of the mutated sequence, the targeted sites were designed within 10–100 nt of either the forward or reverse target-specific primers (Figure 1A). The annealing temperature of the first PCR was determined by the Tm value of the target-specific sequences. The first-round PCR products were further barcoded during the secondround PCR. Common primers for the second-round PCR include platform-specific adaptor sequence, fixed barcode sequence and bridging sequence (Figure 1B, Table S1 in Supporting Information). To improve the recognition ability and reduce the sample confusion, the barcodes with four nucleic acid bases that contain at least two nucleotides difference with one another were designed. In addition, to ensure high sequencing quality of barcode, four spacer bases were also added between the sequencing primers and barcodes. To establish a standard platform for data analysis, 12 forward and eight reverse primers were fixed as common primers for the second PCR step. Thus, it was possible to create a uniquely barcoded amplicon for up to 96 samples"
+  }, {
+    "type" : "list",
+    "id" : 39,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 307.832, 327.96, 549.934, 402.604 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 307.832, 340.664, 549.934, 402.604 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.003,
+      "text color" : "[0.0]",
+      "content" : "(Figure 1B, Table S1 and S2 in Supporting Information). The second PCR contains two pairs of primers, which were mixed in 1:500 proportions in each reaction mix (Table S1 in Supporting Information). For convenience, the primers and PCR mix can be pre-assembled as standard 96-well PCR kits",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 307.832, 327.96, 549.891, 339.037 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.003,
+      "text color" : "[0.0]",
+      "content" : "(Figure 1B, Table S2 in Supporting Information), so there is",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 40,
+    "page number" : 2,
+    "bounding box" : [ 109.134, 100.46, 486.142, 315.893 ],
+    "source" : "Hi-Tom_images/imageFile2.png"
+  }, {
+    "type" : "list",
+    "id" : 41,
+    "level" : "4",
+    "page number" : 2,
+    "bounding box" : [ 45.354, 54.388, 549.943, 92.055 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 54,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 45.354, 54.388, 549.943, 92.055 ],
+      "font" : "TimesNewRomanPS-BoldMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "Figure 1 Schematic illustration of the workflow of Hi-TOM. A, The samples are amplified using site-specific primers (target-specific PCR). B, The products of the first-round PCR are used as templates for the second-round PCR (barcoding PCR) in the 96-hole plate kit. By barcoding PCR, the products of each sample are barcoded. C, All products of the second-round PCR are pooled in equimolar amounts in a single tube and sent for NGS. D, Hi-TOM analyses the data sample-by-sample and exports the results in Excel format.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 42,
+    "page number" : 3,
+    "bounding box" : [ 193.833, 733.601, 549.937, 743.796 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 8,
+      "page number" : 3,
+      "bounding box" : [ 193.833, 733.601, 549.937, 743.796 ],
+      "heading level" : 7,
+      "font" : "Georgia",
+      "font size" : 7.004,
+      "text color" : "[0.0]",
+      "content" : "Liu, Q., et al. Sci China Life Sci January (2019) Vol.62 No.1 3"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 43,
+    "page number" : 3,
+    "bounding box" : [ 45.354, 633.07, 287.456, 720.466 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "no need to prepare PCR mix each time. After the secondround PCR amplification, the products of all samples were mixed with equal amount. If multiple targets (number: N) are required for identification, all products (96×N) can be mixed as a single sample and sent for NGS sequencing. In most cases, 1 Gb sequencing data, the size of which is about 100 Mb after gzip compression, is enough for mutation analysis."
+  }, {
+    "type" : "paragraph",
+    "id" : 44,
+    "page number" : 3,
+    "bounding box" : [ 45.354, 48.217, 287.462, 631.443 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "Then we developed a corresponding Hi-TOM platform for high-throughput mutation sequence decoding (http://www. hi-tom.net/hi-tom/). The algorithm behind Hi-TOM was implemented in a Perl script (v5.16.3). The format of the clean data directly produced by NGS instrument or provided by an NGS company is typically gzip-compressed. Hi-TOM uses clean NGS data directly as an input to generate a detailed genome editing report. The first step is entering a working directory (note that filenames cannot include spaces) to avoid conflicts with other tasks. The second step is clicking the “Choose File” buttons to upload the forward reads (named_1.fq.gz) and reverse reads (named_2.fq.gz) (Figure 1D and 2A). The third step is to upload the reference sequence length in approximately 1000 nt (typically 500 nt before and after the target sequence)(Figure 2A). If multiple targets are analyzed simultaneously, the reference sequences of different targets are sorted in a text file in FASTA format and submitted (Figure 2A). The fourth step is to select the filter threshold which can filter out some low percentage mutation types. The fifth step is to enter the mailbox address which the result will be sent to after the analysis is completed. Then, the submit button is clicked and data are uploaded to the server automatically and directly input into the analysis process. And analysis is performed sample-bysample in an automated manner. If individual raw data for each sample is needed, clicking the “Spliter” button to enter the data split main page. Hi-TOM analyses the uploaded data and performs quantitative analysis of mutations in three steps. (i) Hi-TOM first finds the reference sequence, converts it to FASTA format, then indexes the reference sequence using BWA software and prepares for the following mapping (Li and Durbin, 2009). (ii) The corresponding uploaded data file is then decompressed and the barcodes of each sequence are extracted, the value of each base must be greater than 30 (>Q30). The error sequences resulting from mismatch of primers are eliminated. The sequences are split using the designed barcodes individually. (iii) All reads are mapped to the indexed reference genome after trimming and removing low quality bases using the BWA-MEM (version 0.7.10) algorithm, which shows good performance while mapping reads sequences (Li and Durbin, 2009). A Sequence Alignment Map file is then generated. Using this file, the Hi-TOM algorithm screens paired-end reads for sequence alterations, extracts mutation information for each read, and counts the reads number of all type of mutations individually. If the read is trimmed from the target site by BWA and no small InDels"
+  }, {
+    "type" : "paragraph",
+    "id" : 45,
+    "page number" : 3,
+    "bounding box" : [ 307.843, 518.51, 549.945, 720.336 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "are detected, it will be identified as large InDels. The aligned results are categorized by mutation type and sorted in descending order of the reads number for each mutation and sample individually. Mutations with the most reads numbers are extracted for each sample, which ensures the decoding of introduced mutations. Hi-TOM integrates the results of 96 samples into a Microsoft Excel document. In each document, the mutation types and positions of each sample are listed in detail, including reads number, ratio, mutation type, mutation bases and DNA sequence (Figure 2B). As determining the genotype is crucial in many studies, the genotype of each sample is also analyzed and summarized in an additional Excel document (Figure 2C). Since in-frame mutations and SNP mutations do not necessarily lead to phenotype changes, the samples containing those mutations are highlighted in the table."
+  }, {
+    "type" : "paragraph",
+    "id" : 46,
+    "page number" : 3,
+    "bounding box" : [ 307.843, 340.513, 549.951, 516.884 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "In order to demonstrate the applicability and efficiency of the strategy, two sets of genome-edited materials with four target sites were tested, including rice and human cells. Using the aforementioned strategy, we performed two rounds of PCRs using the site-specific primers and pre-assembled standard 96-well PCR kits. After amplification, the products were pooled, purified and sent for NGS. A total of 1 G clean reads were obtained after NGS sequencing. After reads uploading and analyzing, eight excel documents respectively corresponding to those four target sites were automatically generated by Hi-TOM (Figure 2B and C, Tables S3 and S4 in Supporting Information). The result shows that sufficient coverage was achieved across all samples at all four target sites."
+  }, {
+    "type" : "paragraph",
+    "id" : 47,
+    "page number" : 3,
+    "bounding box" : [ 307.843, 149.814, 549.955, 338.887 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "The CRISPR/Cas systems usually generate biallelic, heterozygous and chimeric mutations. The proportions of some mutation types are low and often overlooked. The sensitivity of Hi-TOM was analyzed by comparing with the results of Sanger sequencing. The Sanger sequencing chromatograms showed that the peak values of some mutations are low and complex, which cannot be identified by chromatogram recognition software. In contrast, all these chimeric mutations that contain three, four, even more mutation types were accurately identified by Hi-TOM (Figure 3, Table S3 and S4 in Supporting Information). In addition to complex chimeric mutations, in-frame mutations and SNP mutations were identified correctly, implying the sensitivity and accuracy of Hi-TOM (Figure 3, Table S3 and S4 in Supporting Information)."
+  }, {
+    "type" : "paragraph",
+    "id" : 48,
+    "page number" : 3,
+    "bounding box" : [ 307.843, 48.087, 549.947, 148.138 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "For polyploid organisms, it still remains a tedious process to analyze mutations on different sets of chromosomes. To test whether Hi-TOM can be used for identification of mutations on different chromosomes in polyploid organism, 64 hexaploid wheat (Triticum aestivum, AABBDD) samples were chosen for analysis. To distinguish the A, B and D genomes, InDel and SNP variations on the genome were amplified in the fragment. During Hi-TOM analysis, the"
+  }, {
+    "type" : "header",
+    "id" : 49,
+    "page number" : 4,
+    "bounding box" : [ 45.354, 733.601, 401.434, 743.796 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 9,
+      "page number" : 4,
+      "bounding box" : [ 45.354, 733.601, 401.434, 743.796 ],
+      "heading level" : 7,
+      "font" : "Georgia",
+      "font size" : 7.004,
+      "text color" : "[0.0]",
+      "content" : "4 Liu, Q., et al. Sci China Life Sci January (2019) Vol.62 No.1"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 53,
+    "page number" : 4,
+    "bounding box" : [ 106.299, 249.279, 488.976, 721.248 ],
+    "source" : "Hi-Tom_images/imageFile3.png"
+  }, {
+    "type" : "list",
+    "id" : 54,
+    "level" : "4",
+    "page number" : 4,
+    "bounding box" : [ 45.354, 174.399, 549.956, 240.874 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 41,
+    "next list id" : 61,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 45.354, 174.399, 549.956, 240.874 ],
+      "font" : "TimesNewRomanPS-BoldMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "Figure 2 The home page of Hi-TOM and result of example. A, The home page of Hi-TOM. Job title stands for working directory; upload the NGS reads stands for uploading the forward reads (named_1.fq.gz) and reverse reads (named_2.fq.gz). B, An example of Hi-TOM sequence results. The results are summarised in the table. The results are populated in nine columns as follows: sample code and mutant name; read number; ratio; left variation type; left variation; right variation type; right variation; left read sequence; right read sequence. In the variation type volume, I, D and S indicate the insertion, deletion and SNP, respectively. For example, 3D represents the deletion of three bases and 1I represents insertion of one base. In the reads sequence column, the location of the mutation is indicated in lowercase. C, An example of Hi-TOM genotype results. AA stands for wild-type genotype; Aa stands for heterozygous genotype; aa stands for homozygous mutant genotype; * stands for in-frame mutation; # stands for SNP; - stands for missing data.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 50,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 45.354, 50.655, 287.455, 163.458 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 45.354, 139.678, 287.415, 163.458 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.003,
+      "text color" : "[0.0]",
+      "content" : "sequence of A-genome was set as the reference genome. Compared with the amplified sequence of A-genome, the",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 45.354, 50.655, 287.455, 138.002 ],
+      "font" : "TimesNewRomanPSMT",
+      "font size" : 10.003,
+      "text color" : "[0.0]",
+      "content" : "sequence of B-genome has 8 bp insertions and 5 SNPs, while the sequence of D-genome has 6 bp insertions and 2 SNPs. The results showed that three sets of genomes can be distinguished from each other by analyzing those variations. Meanwhile, the mutations on each genome were successfully tracked (Figure 4), suggesting the robustness of Hi-TOM in identification of mutations in polyploid organisms.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 51,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 307.842, 152.166, 375.066, 164.346 ],
+    "heading level" : 3,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.999,
+    "text color" : "[0.0]",
+    "content" : "DISCUSSION"
+  }, {
+    "type" : "paragraph",
+    "id" : 52,
+    "page number" : 4,
+    "bounding box" : [ 307.842, 50.657, 549.947, 138.003 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "Here we developed a systematic strategy which fixed the second-round PCR primers for the construction of NGS library and established the user-friendly Hi-TOM platform for large-scale mutation identification, which enables the accurate quantification and visualization of mutation outcomes, and comprehensive evaluation of numerous mutation sequences. The possibility of bar coding hundreds of samples"
+  }, {
+    "type" : "header",
+    "id" : 55,
+    "page number" : 5,
+    "bounding box" : [ 193.833, 733.601, 549.937, 743.796 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 10,
+      "page number" : 5,
+      "bounding box" : [ 193.833, 733.601, 549.937, 743.796 ],
+      "heading level" : 7,
+      "font" : "Georgia",
+      "font size" : 7.004,
+      "text color" : "[0.0]",
+      "content" : "Liu, Q., et al. Sci China Life Sci January (2019) Vol.62 No.1 5"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 60,
+    "page number" : 5,
+    "bounding box" : [ 99.213, 324.907, 496.12, 721.247 ],
+    "source" : "Hi-Tom_images/imageFile4.png"
+  }, {
+    "type" : "list",
+    "id" : 61,
+    "level" : "4",
+    "page number" : 5,
+    "bounding box" : [ 45.354, 298.003, 549.956, 316.446 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 54,
+    "next list id" : 74,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 45.354, 298.003, 549.956, 316.446 ],
+      "font" : "TimesNewRomanPS-BoldMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "Figure 3 The Sanger sequencing chromatograms and different mutation types tracked by Hi-TOM. H06 represents homozygous mutation; G06 indicates heterozygous mutation; F01 shows chimeric mutation with three variation types; G04 displays chimeric mutation with four variation types.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 56,
+    "page number" : 5,
+    "bounding box" : [ 45.354, 48.307, 287.459, 275.54 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "with multiple target sites in one sequencing sample makes it competitive economic perspective. As 1 Gb sequencing data is sufficient to analyze hundreds or even thousands of amplicons, the cost can be extremely cheap when analyzing large number of samples or sites. At present, compared with normal Sanger sequencing, it takes much longer time to accomplish the next-generation sequencing (about 5–15 days). However, with the rapid development of NGS technique, the sequencing might be accelerated in a very short term. In terms of cost, the price of 1Gb NGS data is about 15 USD, and Sanger sequencing costs nearly 2 USD per sample. So if more than 20 samples are analyzed and the time is not very urgent, it is beneficial to use NGS and Hi-TOM. If such kind of sample number is not so large, using direct Sanger sequencing of PCR products is prior in aspects of time and cost. Additionally, when large InDel mutations are generated by CRISPR-Cas system, direct Sanger sequencing is also preferred to determine the detailed sequence of large InDels."
+  }, {
+    "type" : "heading",
+    "id" : 57,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 307.842, 264.248, 461.068, 276.428 ],
+    "heading level" : 3,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.999,
+    "text color" : "[0.0]",
+    "content" : "MATERIALS AND METHODS"
+  }, {
+    "type" : "heading",
+    "id" : 58,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 307.842, 243.033, 418.445, 254.11 ],
+    "heading level" : 5,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "NGS library construction"
+  }, {
+    "type" : "paragraph",
+    "id" : 59,
+    "page number" : 5,
+    "bounding box" : [ 307.841, 48.34, 549.947, 237.386 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "The primary PCR was performed to amplify the targeted genomic DNA with a pair of site-specific primers with common bridging sequences (5′-ggagtgagtacggtgtgc-3′ and 5′-gagttggatgctggatgg-3′) added at the 5′ end. The primary amplification was performed in a 20 µL reaction volume containing 50 ng of genomic DNA, 0.3 µmol L–1 of specific forward and reverse primer, and 10 µL 2×Taq Master Mix (Novoprotein Scientific, China). The secondary amplification was conducted in 20 µL preassembled kits, each containing 10 µL 2×Taq Master Mix, 200 nmol L–1 2P-F and 2PR primer, 2 nmol L–1 F-(N) and R-(N) primer (Supplementary Table 1), and 1 µL primary PCR product. PCR conditions were 3 min at 94°C (1×), 30 s at 94°C, 30 s at annealing temperature and 30 s at 72°C (33×), followed by 72 °C for 2 min."
+  }, {
+    "type" : "header",
+    "id" : 62,
+    "page number" : 6,
+    "bounding box" : [ 45.354, 733.601, 401.434, 743.796 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 11,
+      "page number" : 6,
+      "bounding box" : [ 45.354, 733.601, 401.434, 743.796 ],
+      "heading level" : 7,
+      "font" : "Georgia",
+      "font size" : 7.004,
+      "text color" : "[0.0]",
+      "content" : "6 Liu, Q., et al. Sci China Life Sci January (2019) Vol.62 No.1"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 73,
+    "page number" : 6,
+    "bounding box" : [ 55.446, 388.233, 539.83, 721.247 ],
+    "source" : "Hi-Tom_images/imageFile5.png"
+  }, {
+    "type" : "list",
+    "id" : 74,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 45.354, 332.521, 549.929, 379.828 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 61,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 45.354, 332.521, 549.929, 379.828 ],
+      "font" : "TimesNewRomanPS-BoldMT",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 1.0]",
+      "content" : "Figure 4 The amplified fragments and Hi-TOM result of hexaploid wheat (Triticum aestivum, AABBDD). A, The amplified fragments of A, B and D genomes. The red letters indicate the target sites; the green letters represent sequence variations to distinguish between A genome and B genome; the blue letters show sequence variations to distinguish between A genome and D genome. B, The Hi-TOM result of hexaploid wheat. The mutation variations were displayed in the left variation type while the genomes were shown in the right variation type. WT indicates the A-genome, 8I exhibits the B-genome, and 6I represents the D-genome.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 63,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 45.354, 299.782, 164.822, 310.859 ],
+    "heading level" : 5,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "Next generation sequencing"
+  }, {
+    "type" : "paragraph",
+    "id" : 64,
+    "page number" : 6,
+    "bounding box" : [ 45.354, 176.863, 287.467, 289.654 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "The libraries were sequenced using the Illumina HiSeq platform (Illumina, USA) by the Novogene Bioinformatics Institute, Beijing, China. The concentration of the libraries was initially measured using Qubit®2.0 (Life Technologies, USA). The libraries were diluted to 1 ng µL–1 and an Agilent Bioanalyzer 2100 (Agilent, USA) was used to test the insert size of the libraries. To ensure quality, the SYBR green qRTPCR protocol was used to accurately dose the effective concentration of the libraries."
+  }, {
+    "type" : "heading",
+    "id" : 65,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 45.355, 147.215, 196.288, 158.293 ],
+    "heading level" : 5,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "Filtering reads and mapping reads"
+  }, {
+    "type" : "paragraph",
+    "id" : 66,
+    "page number" : 6,
+    "bounding box" : [ 45.355, 47.353, 287.45, 137.087 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "Paired end (PE) reads with 150 bp were determined and the clean reads were collected from sequenced reads, which were pre-processed to remove adaptors and low quality paired reads. The following criteria were used to remove the low quality reads: (i) containing more than 10% ‘N’s; (ii) more than 50% bases having low quality value (Phred score ≤5); (iii) duplicated reads were removed and coverage va-"
+  }, {
+    "type" : "paragraph",
+    "id" : 67,
+    "page number" : 6,
+    "bounding box" : [ 307.843, 287.052, 549.918, 310.832 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "lues were calculated using SAMTOOLS (Li and Durbin, 2009)."
+  }, {
+    "type" : "paragraph",
+    "id" : 68,
+    "page number" : 6,
+    "bounding box" : [ 307.842, 245.956, 549.925, 274.039 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Compliance and ethics The authors filed a patent application (Chinese patent application number 201710504178.3) based on the results reported in this paper."
+  }, {
+    "type" : "paragraph",
+    "id" : 69,
+    "page number" : 6,
+    "bounding box" : [ 307.842, 138.189, 549.937, 231.511 ],
+    "font" : "TimesNewRomanPS-ItalicMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Acknowledgements We are extremely grateful to Ruiqiang Li from Novogene Bioinformatics Institute for critical reading of the manuscript. We thank Zheng Ruan and his team from Novogene Co., Ltd for NGS technical service. We also thank Yangwen Qian from Hangzhou Biogle Co., Ltd for rice transformation. This work was supported by the National Key Research and Development Program of China (2017YFD0102002), the Agricultural Science and Technology Innovation Program of Chinese Academy of Agricultural Sciences, and the National Natural Science Foundation of China (31401363)."
+  }, {
+    "type" : "heading",
+    "id" : 70,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 307.842, 116.494, 354.372, 127.571 ],
+    "heading level" : 5,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "References"
+  }, {
+    "type" : "paragraph",
+    "id" : 71,
+    "page number" : 6,
+    "bounding box" : [ 307.842, 68.692, 549.926, 107.759 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Bell, C.C., Magor, G.W., Gillinder, K.R., and Perkins, A.C. (2014). A high-throughput screening strategy for detecting CRISPR-Cas9 induced mutations using next-generation sequencing. BMC Genomics 15, 1002."
+  }, {
+    "type" : "paragraph",
+    "id" : 72,
+    "page number" : 6,
+    "bounding box" : [ 307.842, 48.572, 549.929, 67.519 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Boel, A., Steyaert, W., De Rocker, N., Menten, B., Callewaert, B., De Paepe, A., Coucke, P., and Willaert, A. (2016). BATCH-GE: Batch"
+  }, {
+    "type" : "header",
+    "id" : 75,
+    "page number" : 7,
+    "bounding box" : [ 193.833, 733.601, 549.937, 743.796 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 12,
+      "page number" : 7,
+      "bounding box" : [ 193.833, 733.601, 549.937, 743.796 ],
+      "heading level" : 7,
+      "font" : "Georgia",
+      "font size" : 7.004,
+      "text color" : "[0.0]",
+      "content" : "Liu, Q., et al. Sci China Life Sci January (2019) Vol.62 No.1 7"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "page number" : 7,
+    "bounding box" : [ 56.693, 702.399, 287.405, 721.346 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "analysis of Next-Generation Sequencing data for genome editing assessment. Sci Rep 6, 30330."
+  }, {
+    "type" : "paragraph",
+    "id" : 77,
+    "page number" : 7,
+    "bounding box" : [ 45.357, 672.247, 287.461, 701.226 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Brinkman, E.K., Chen, T., Amendola, M., and van Steensel, B. (2014). Easy quantitative assessment of genome editing by sequence trace decomposition. Nucleic Acids Res 42, e168."
+  }, {
+    "type" : "paragraph",
+    "id" : 78,
+    "page number" : 7,
+    "bounding box" : [ 45.349, 642.039, 287.453, 671.018 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Chen, Y., Wang, Z., Ni, H., Xu, Y., Chen, Q., and Jiang, L. (2017). CRISPR/Cas9-mediated base-editing system efficiently generates gainof-function mutations in Arabidopsis. Sci China Life Sci 60, 520–523."
+  }, {
+    "type" : "paragraph",
+    "id" : 79,
+    "page number" : 7,
+    "bounding box" : [ 45.349, 611.888, 287.439, 640.867 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Goodwin, S., McPherson, J.D., and McCombie, W.R. (2016). Coming of age: ten years of next-generation sequencing technologies. Nat Rev Genet 17, 333–351."
+  }, {
+    "type" : "paragraph",
+    "id" : 80,
+    "page number" : 7,
+    "bounding box" : [ 45.349, 581.68, 287.442, 610.659 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Güell, M., Yang, L., and Church, G.M. (2014). Genome editing assessment using CRISPR Genome Analyzer (CRISPR-GA). Bioinformatics 30, 2968–2970."
+  }, {
+    "type" : "paragraph",
+    "id" : 81,
+    "page number" : 7,
+    "bounding box" : [ 45.349, 561.552, 287.42, 580.508 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Li, H., and Durbin, R. (2009). Fast and accurate short read alignment with Burrows-Wheeler transform. Bioinformatics 25, 1754–1760."
+  }, {
+    "type" : "paragraph",
+    "id" : 82,
+    "page number" : 7,
+    "bounding box" : [ 45.341, 521.313, 287.426, 560.38 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Lindsay, H., Burger, A., Biyong, B., Felker, A., Hess, C., Zaugg, J., Chiavacci, E., Anders, C., Jinek, M., Mosimann, C., et al. (2016). CrispRVariants charts the mutation spectrum of genome engineering experiments. Nat Biotechnol 34, 701–702."
+  }, {
+    "type" : "paragraph",
+    "id" : 83,
+    "page number" : 7,
+    "bounding box" : [ 45.333, 501.185, 287.394, 520.14 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Metzker, M.L. (2010). Sequencing technologies—the next generation. Nat Rev Genet 11, 31–46."
+  }, {
+    "type" : "paragraph",
+    "id" : 84,
+    "page number" : 7,
+    "bounding box" : [ 45.333, 471.034, 287.401, 500.013 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Park, J., Lim, K., Kim, J.S., and Bae, S. (2016). Cas-analyzer: an online tool for assessing genome editing results using NGS data. Bioinformatics 33, 286–288."
+  }, {
+    "type" : "paragraph",
+    "id" : 85,
+    "page number" : 7,
+    "bounding box" : [ 45.325, 440.818, 287.411, 469.805 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Pinello, L., Canver, M.C., Hoban, M.D., Orkin, S.H., Kohn, D.B., Bauer, D. E., and Yuan, G.C. (2016). Analyzing CRISPR genome-editing experiments with CRISPResso. Nat Biotechnol 34, 695–697."
+  }, {
+    "type" : "paragraph",
+    "id" : 86,
+    "page number" : 7,
+    "bounding box" : [ 45.317, 420.698, 287.41, 439.645 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Ran, Y., Liang, Z., and Gao, C. (2017). Current and future editing reagent delivery systems for plant genome editing. Sci China Life Sci 60, 490–"
+  }, {
+    "type" : "paragraph",
+    "id" : 87,
+    "page number" : 7,
+    "bounding box" : [ 307.802, 692.431, 549.895, 721.41 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "505. Jiao, R., and Gao, C. (2017). Anything impossible with CRISPR/Cas9? Sci China Life Sci 60, 445–446."
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 7,
+    "bounding box" : [ 307.794, 662.223, 549.887, 691.202 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Rodríguez-Leal, D., Lemmon, Z.H., Man, J., Bartlett, M.E., and Lippman, Z.B. (2017). Engineering quantitative trait variation for crop improvement by genome editing. Cell 171, 470-480."
+  }, {
+    "type" : "paragraph",
+    "id" : 89,
+    "page number" : 7,
+    "bounding box" : [ 307.794, 621.984, 549.887, 661.051 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Shen, L., Hua, Y., Fu, Y., Li, J., Liu, Q., Jiao, X., Xin, G., Wang, J., Wang, X., Yan, C., et al. (2017). Rapid generation of genetic diversity by multiplex CRISPR/Cas9 genome editing in rice. Sci China Life Sci 60, 506–515."
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 7,
+    "bounding box" : [ 307.786, 581.744, 549.884, 620.811 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Wang, Y., Cheng, X., Shan, Q., Zhang, Y., Liu, J., Gao, C., and Qiu, J.L. (2014). Simultaneous editing of three homoeoalleles in hexaploid bread wheat confers heritable resistance to powdery mildew. Nat Biotechnol 32, 947–951."
+  }, {
+    "type" : "paragraph",
+    "id" : 91,
+    "page number" : 7,
+    "bounding box" : [ 307.786, 541.497, 549.888, 580.572 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Winter, J., Breinig, M., Heigwer, F., Brügemann, D., Leible, S., Pelz, O., Zhan, T., and Boutros, M. (2016). caRpools: an R package for exploratory data analysis and documentation of pooled CRISPR/Cas9 screens. Bioinformatics 32, 632–634."
+  }, {
+    "type" : "paragraph",
+    "id" : 92,
+    "page number" : 7,
+    "bounding box" : [ 307.778, 511.345, 549.87, 540.324 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Xie, X., Ma, X., Zhu, Q., Zeng, D., Li, G., and Liu, Y.G. (2017). CRISPRGE: a convenient software toolkit for cRISPR-based genome editing. Mol Plant 10, 1246-1249."
+  }, {
+    "type" : "paragraph",
+    "id" : 93,
+    "page number" : 7,
+    "bounding box" : [ 307.778, 491.217, 549.862, 510.108 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Xue, L.J., and Tsai, C.J. (2015). AGEseq: analysis of genome editing by sequencing. Mol Plant 8, 1428–1430."
+  }, {
+    "type" : "paragraph",
+    "id" : 94,
+    "page number" : 7,
+    "bounding box" : [ 307.778, 450.978, 549.876, 489.989 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Zhang, H., Zhang, J., Wei, P., Zhang, B., Gou, F., Feng, Z., Mao, Y., Yang, L., Zhang, H., Xu, N., et al. (2014). The CRISPR/Cas9 system produces specific and homozygous targeted gene editing in rice in one generation. Plant Biotechnol J 12, 797–807."
+  }, {
+    "type" : "paragraph",
+    "id" : 95,
+    "page number" : 7,
+    "bounding box" : [ 307.778, 420.762, 549.86, 449.741 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Zhang, X., Wang, L., Liu, M., and Li, D. (2017). CRISPR/Cas9 system: a powerful technology for in vivo and ex vivo gene therapy. Sci China Life Sci 60, 468–475."
+  }, {
+    "type" : "heading",
+    "id" : 96,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 45.354, 383.878, 201.321, 396.015 ],
+    "heading level" : 4,
+    "font" : "TimesNewRomanPS-BoldMT",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 1.0]",
+    "content" : "SUPPORTING INFORMATION"
+  }, {
+    "type" : "list",
+    "id" : 97,
+    "level" : "5",
+    "page number" : 7,
+    "bounding box" : [ 53.858, 301.424, 335.192, 373.489 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.858, 363.56, 335.192, 373.489 ],
+      "font" : "TimesNewRomanPS-BoldMT",
+      "font size" : 8.966,
+      "text color" : "[0.0]",
+      "content" : "Table S1 The primers developed for the PCR-based library construction kits",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.858, 342.866, 290.173, 352.795 ],
+      "font" : "TimesNewRomanPS-BoldMT",
+      "font size" : 8.966,
+      "text color" : "[0.0]",
+      "content" : "Table S2 Distribution of primer combinations in a 96-hole plate",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.858, 322.118, 264.29, 332.047 ],
+      "font" : "TimesNewRomanPS-BoldMT",
+      "font size" : 8.966,
+      "text color" : "[0.0]",
+      "content" : "Table S3 An example of sequence results in human cells",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.858, 301.424, 264.29, 311.353 ],
+      "font" : "TimesNewRomanPS-BoldMT",
+      "font size" : 8.966,
+      "text color" : "[0.0]",
+      "content" : "Table S4 An example of genotype results in human cells",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 98,
+    "page number" : 7,
+    "bounding box" : [ 45.356, 251.586, 549.945, 288.069 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 10.003,
+    "text color" : "[0.0]",
+    "content" : "The supporting information is available online at http://life.scichina.com and https://link.springer.com. The supporting materials are published as submitted, without typesetting or editing. The responsibility for scientific accuracy and content remains entirely with the authors."
+  } ]
+}
