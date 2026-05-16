@@ -189,3 +189,8 @@ Dataset 27 mismatches are exclusively in borderline cases where variant abundanc
 > **Liu Q, et al.** "Hi-TOM: a platform for high-throughput tracking of mutations induced by CRISPR/Cas systems." *Science China Life Sciences*, 2019. doi:10.1007/s11427-018-9402-9
 
 This is an independent reimplementation. It is not affiliated with the original authors or the Hi-TOM web platform.
+
+Contact:liziqiang23@cemps.ac.cn
+
+## AI Usage Declearation
+The code is created by Deepseek v4 Pro, code is manually edited and tested extensive over more than 40 indepent biological repeats to ensure similarity with the official implementation on the website. 
